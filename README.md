@@ -13,3 +13,8 @@
 * 'git log --oneline' -compact commit history
 
 ## Branching Commands
+* 'git branch' -list local branches
+* 'git branch branchName' -create new branch 'branchName'
+* 'git checkout branchName' - move to local branch 'branchName'
+* 'git checkout -b branchName' -create branch 'branchName' and check it out
+
